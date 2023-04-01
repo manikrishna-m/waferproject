@@ -1,4 +1,4 @@
-wafe
+wafer
 ==============================
 
 End of End implementation of wafer project using machine learning 
